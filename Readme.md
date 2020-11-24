@@ -7,6 +7,3 @@
     형성빈
     설인혜
     노경민
-
-prac edit
-prac2 edit
